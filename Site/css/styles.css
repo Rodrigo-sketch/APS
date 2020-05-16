@@ -1,9 +1,56 @@
 #jojofag {text-align: justify; font-size: 16pt;}
 h1 {
     font-size: 24pt;
+    color: white;
 }
 
 h2 {
     font-size: 18pt;
+    color: white;
 }
 
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+#menu {
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+    list-style: none;
+    text-align: center;
+    font-size: 22px;
+}
+
+#menu ul li { display: inline;}
+
+#menu ul li a {
+    padding: 10px;
+    display: inline-block;
+
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-bottom: 3px;
+}
+
+body {
+    background-color: rgb(3, 0, 27);
+    text-decoration-color: white;
+}
