@@ -2,31 +2,39 @@
 h1 {
     font-size: 24pt;
     color: white;
+    text-align: center;
 }
 
 h2 {
     font-size: 18pt;
     color: white;
+    text-align: center;
 }
 
 h3 {
     color: white;
+    text-align: center;
 }
 
 h4 {
     color: white;
+    text-align: center;
 }
 
 h5 {
     color: white;
+    text-align: center;
 }
 
 h6 {
     color: white;
+    text-align: center;
 }
 
 p {
     color: white;
+    text-align: center;
+    font-size: 14pt;
 }
 
 #menu {
