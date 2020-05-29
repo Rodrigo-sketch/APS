@@ -1,4 +1,4 @@
-#textp {text-align: justify; font-size: 16pt;}
+#textp {text-align: center; font-size: 16pt;}
 h1 {
     font-size: 24pt;
     color: white;
@@ -33,7 +33,9 @@ h6 {
 
 p {
     color: white;
-    text-align: center;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 14pt;
 }
 
@@ -61,4 +63,9 @@ p {
 body {
     background-color: rgb(3, 0, 27);
     text-decoration-color: white;
+}
+
+div { text-align: center; 
+      color: white; 
+      font-size: 14pt;         
 }
